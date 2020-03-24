@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {increment, decrement, logIn, logOut} from './actions'
 import { useSelector, useDispatch } from 'react-redux';
